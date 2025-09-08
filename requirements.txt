@@ -1,0 +1,5 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+twilio==9.2.4
+squareup==37.0.0.20250116
+dateparser==1.2.0
